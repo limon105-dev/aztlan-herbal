@@ -13,6 +13,7 @@
     padding: 12px;
     background-color: var(--white);
     z-index: 99;
+    box-shadow: 0 0 10px rgb(204 204 204 / 60%);
 }
 
 .sticky-btn .btn {
@@ -22,6 +23,8 @@
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
+    max-width: 400px;
+    margin: 0 auto;
 }
 
 /* sticky-btn-section css end */

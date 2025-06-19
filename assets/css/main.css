@@ -294,7 +294,7 @@ button {
     font-size: 18px;
     line-height: 28px;
     text-align: center;
-    padding: 30px 0 0 0;
+    padding: 20px 0 0 0;
     max-width: 748px;
     margin: 0 auto;
 }
@@ -722,8 +722,9 @@ button {
     .section-heading-text {
         font-size: 16px;
         line-height: 24px;
-        padding: 20px 0 0 0;
+        padding: 16px 0 0 0;
     }
+
 
     .btn {
         font-size: 16px;
@@ -752,7 +753,7 @@ button {
     .section-heading-text {
         font-size: 14px;
         line-height: 20px;
-        padding: 16px 0 0 0;
+        padding: 10px 0 0 0;
     }
 
     .section-btn .btn {

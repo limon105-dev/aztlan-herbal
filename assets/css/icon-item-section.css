@@ -22,6 +22,15 @@
     -moz-border-radius: 12px;
     -ms-border-radius: 12px;
     -o-border-radius: 12px;
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s;
+    -moz-transition: all linear .3s;
+    -ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+
+.icon-item:hover {
+    background-color: var(--brand-color);
 }
 
 .icon-item .icon {
@@ -38,11 +47,29 @@
     font-size: 20px;
     line-height: 100%;
     text-transform: capitalize;
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s;
+    -moz-transition: all linear .3s;
+    -ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+
+.icon-item:hover .icon-item-title {
+    color: var(--white);
 }
 
 .icon-item-text {
     font-size: 16px;
     margin: 16px 0 0 0;
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s;
+    -moz-transition: all linear .3s;
+    -ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+
+.icon-item:hover .icon-item-text {
+    color: var(--white);
 }
 
 /* icon-item section css end */
