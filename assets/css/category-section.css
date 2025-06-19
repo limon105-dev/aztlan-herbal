@@ -143,6 +143,7 @@
     }
 
     .category-text {
+        margin: 5px 0 0 0;
         font-size: 12px;
         line-height: 16px;
     }
